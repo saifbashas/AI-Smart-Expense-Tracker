@@ -1,0 +1,10 @@
+Type,Category,Amount,Date,Description
+Income,Salary,1000.0,2026-05-19,
+Income,Salary,10000.0,2026-05-19,
+Income,Salary,1000000.0,2026-05-19,
+Expense,Food,1000.0,2026-05-19,
+Expense,Travel,500.0,2026-05-19,
+Expense,Shopping,1000.0,2026-05-19,
+Expense,Food,10000.0,2026-05-19,
+Expense,Food,10000.0,2026-05-20,
+Expense,Shopping,5000.0,2026-05-20,Clothes
