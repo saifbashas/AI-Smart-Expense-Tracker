@@ -1,8 +1,8 @@
-# 💰 AI Smart Expense Tracker
+# Smart Expense Tracker
 
 A modern fintech-style personal finance management application built using Python and Streamlit.
 
-## 🚀 Features
+## Features
 
 - Secure Login System
 - Add & Manage Transactions
@@ -12,7 +12,7 @@ A modern fintech-style personal finance management application built using Pytho
 - CSV Export
 - Modern UI Design
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -20,7 +20,7 @@ A modern fintech-style personal finance management application built using Pytho
 - Plotly
 - CSS
 
-## 📊 Purpose
+## Purpose
 
 This application helps users:
 - track expenses
@@ -28,10 +28,6 @@ This application helps users:
 - analyze spending
 - improve financial planning
 
-## 🔗 Live Demo
+## Live Demo
 
 https://ai-smart-expense-tracker-hkfdltawqzgytgfapdsngx.streamlit.app/
-
-## 📷 Screenshots
-
-Add screenshots later.
